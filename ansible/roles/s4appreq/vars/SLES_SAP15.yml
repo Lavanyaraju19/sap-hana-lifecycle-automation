@@ -1,0 +1,13 @@
+---
+ap_required_packages:
+  - libgcc_s1
+  - libstdc++6
+  - libatomic1
+
+ap_required_configurations:
+  - "reqpkg"
+  - "tmpfs"
+  - "limits"
+  - "saptune"
+  - "reboot"
+...
